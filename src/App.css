@@ -27,7 +27,7 @@ select {
 }
 
 body {
-  margin: 0; /* removes white border around website*/
+  margin: 0;
   padding: 0;
   margin-top: -22px;
 }
