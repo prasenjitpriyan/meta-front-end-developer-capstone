@@ -1,7 +1,8 @@
-import React from "react";
-
-const About = () => {
-  return <div>About</div>;
-};
-
-export default About;
+import Heading from "../sections/aboutPages/Heading";
+export default function About() {
+  return (
+    <>
+      <Heading />
+    </>
+  );
+}
