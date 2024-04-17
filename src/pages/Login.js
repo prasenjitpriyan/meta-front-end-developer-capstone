@@ -1,9 +1,9 @@
-import React from 'react'
+import LoginSection from "../sections/loginPages/Login";
 
-const Login = () => {
+export default function Login() {
   return (
-    <div>Login</div>
-  )
+    <>
+      <LoginSection />
+    </>
+  );
 }
-
-export default Login
